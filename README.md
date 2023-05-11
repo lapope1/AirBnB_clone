@@ -32,4 +32,4 @@ All the code is tested with the unittest module. The test for the classes are in
 ## Authors
 
 - Ayomiposi Popoola - [lapope1](https://github.com/lapope1)
-- Ade Lawal - (adebambosimisoluwa1@gmail.com)
+- Ade Lawal - [Adebambo123](adebambosimisoluwa1@gmail.com)
